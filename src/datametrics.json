@@ -96,6 +96,29 @@
           { "id": "jan-tp-4", "title": "Notion Template: 2025 Planner", "platform": "YouTube", "views": 54100, "engagementRate": 6.5 },
           { "id": "jan-tp-5", "title": "Podcast Clip: On Consistency", "platform": "Instagram", "views": 43880, "engagementRate": 7.8 }
         ]
+      },
+      "trending": {
+        "topics": [
+          { "id": "jan-t-1", "topic": "New Year Resolutions", "volume": 1284000, "change": 342, "category": "Lifestyle" },
+          { "id": "jan-t-2", "topic": "Studio Tours 2025", "volume": 486000, "change": 128, "category": "Creator" },
+          { "id": "jan-t-3", "topic": "Cold Plunge", "volume": 312000, "change": 96, "category": "Wellness" },
+          { "id": "jan-t-4", "topic": "Notion Templates", "volume": 218000, "change": 44, "category": "Productivity" },
+          { "id": "jan-t-5", "topic": "Winter Morning Routines", "volume": 176000, "change": 61, "category": "Lifestyle" }
+        ],
+        "hashtags": [
+          { "id": "jan-h-1", "tag": "#NewYearNewMe", "posts": 2840000, "change": 210 },
+          { "id": "jan-h-2", "tag": "#StudioTour", "posts": 612000, "change": 88 },
+          { "id": "jan-h-3", "tag": "#2025Goals", "posts": 1420000, "change": 302 },
+          { "id": "jan-h-4", "tag": "#DeskSetup", "posts": 498000, "change": 34 },
+          { "id": "jan-h-5", "tag": "#MorningRoutine", "posts": 782000, "change": 56 }
+        ],
+        "music": [
+          { "id": "jan-m-1", "title": "Golden Hour", "artist": "JVKE", "uses": 412000, "change": 24 },
+          { "id": "jan-m-2", "title": "Snowfall", "artist": "Øneheart & reidenshi", "uses": 286000, "change": 112 },
+          { "id": "jan-m-3", "title": "Fresh Start", "artist": "L.Dre", "uses": 198000, "change": 76 },
+          { "id": "jan-m-4", "title": "Sunroof", "artist": "Nicky Youre", "uses": 164000, "change": 18 },
+          { "id": "jan-m-5", "title": "Lofi Winter", "artist": "Purrple Cat", "uses": 132000, "change": 42 }
+        ]
       }
     },
     {
@@ -193,6 +216,29 @@
           { "id": "feb-tp-3", "title": "Reel: 60s Productivity Reset", "platform": "Instagram", "views": 88600, "engagementRate": 8.2 },
           { "id": "feb-tp-4", "title": "TikTok: My Morning Stack", "platform": "TikTok", "views": 64200, "engagementRate": 7.4 },
           { "id": "feb-tp-5", "title": "Short: Fastest Way to Journal", "platform": "YouTube", "views": 51000, "engagementRate": 6.9 }
+        ]
+      },
+      "trending": {
+        "topics": [
+          { "id": "feb-t-1", "topic": "Valentine's Gift Guides", "volume": 1620000, "change": 408, "category": "Lifestyle" },
+          { "id": "feb-t-2", "topic": "5AM Club Challenge", "volume": 742000, "change": 186, "category": "Wellness" },
+          { "id": "feb-t-3", "topic": "Deep Work", "volume": 398000, "change": 92, "category": "Productivity" },
+          { "id": "feb-t-4", "topic": "Cozy Home Setups", "volume": 284000, "change": 54, "category": "Home" },
+          { "id": "feb-t-5", "topic": "Podcast Studios", "volume": 196000, "change": 38, "category": "Creator" }
+        ],
+        "hashtags": [
+          { "id": "feb-h-1", "tag": "#GalentinesDay", "posts": 986000, "change": 312 },
+          { "id": "feb-h-2", "tag": "#5AMClub", "posts": 428000, "change": 174 },
+          { "id": "feb-h-3", "tag": "#GiftGuide", "posts": 812000, "change": 220 },
+          { "id": "feb-h-4", "tag": "#SlowLiving", "posts": 542000, "change": 46 },
+          { "id": "feb-h-5", "tag": "#WFHSetup", "posts": 386000, "change": 28 }
+        ],
+        "music": [
+          { "id": "feb-m-1", "title": "Lover", "artist": "Taylor Swift", "uses": 528000, "change": 68 },
+          { "id": "feb-m-2", "title": "Cupid (Twin Ver.)", "artist": "FIFTY FIFTY", "uses": 384000, "change": 42 },
+          { "id": "feb-m-3", "title": "Sunrise Focus", "artist": "Mondo Loops", "uses": 214000, "change": 88 },
+          { "id": "feb-m-4", "title": "Coffee Shop Jazz", "artist": "Cafe Music BGM", "uses": 172000, "change": 24 },
+          { "id": "feb-m-5", "title": "Snowfall", "artist": "Øneheart & reidenshi", "uses": 148000, "change": -12 }
         ]
       }
     },
@@ -292,6 +338,29 @@
           { "id": "mar-tp-4", "title": "TikTok: iPad Multitask Trick", "platform": "TikTok", "views": 78500, "engagementRate": 7.6 },
           { "id": "mar-tp-5", "title": "Short: Desk Tour in 30s", "platform": "YouTube", "views": 60200, "engagementRate": 7.0 }
         ]
+      },
+      "trending": {
+        "topics": [
+          { "id": "mar-t-1", "topic": "Spring Cleaning", "volume": 1420000, "change": 386, "category": "Home" },
+          { "id": "mar-t-2", "topic": "iPad Reviews", "volume": 892000, "change": 244, "category": "Tech" },
+          { "id": "mar-t-3", "topic": "Digital Minimalism", "volume": 486000, "change": 128, "category": "Lifestyle" },
+          { "id": "mar-t-4", "topic": "Q1 Reviews", "volume": 312000, "change": 76, "category": "Productivity" },
+          { "id": "mar-t-5", "topic": "Underrated Apps", "volume": 218000, "change": 54, "category": "Tech" }
+        ],
+        "hashtags": [
+          { "id": "mar-h-1", "tag": "#SpringReset", "posts": 942000, "change": 268 },
+          { "id": "mar-h-2", "tag": "#iPadPro", "posts": 684000, "change": 198 },
+          { "id": "mar-h-3", "tag": "#DigitalDeclutter", "posts": 348000, "change": 84 },
+          { "id": "mar-h-4", "tag": "#DeskSetup", "posts": 512000, "change": 22 },
+          { "id": "mar-h-5", "tag": "#SlowSunday", "posts": 286000, "change": 46 }
+        ],
+        "music": [
+          { "id": "mar-m-1", "title": "Sunroof", "artist": "Nicky Youre", "uses": 298000, "change": 34 },
+          { "id": "mar-m-2", "title": "Bloom", "artist": "The Paper Kites", "uses": 246000, "change": 112 },
+          { "id": "mar-m-3", "title": "Lofi Study", "artist": "Chillhop Music", "uses": 212000, "change": 28 },
+          { "id": "mar-m-4", "title": "Golden Hour", "artist": "JVKE", "uses": 184000, "change": -18 },
+          { "id": "mar-m-5", "title": "Fresh Air", "artist": "Nomyn", "uses": 156000, "change": 62 }
+        ]
       }
     },
     {
@@ -389,6 +458,29 @@
           { "id": "apr-tp-3", "title": "TikTok: Planner Flip Trick", "platform": "TikTok", "views": 94200, "engagementRate": 8.9 },
           { "id": "apr-tp-4", "title": "Short: Desk Refresh Reveal", "platform": "YouTube", "views": 71300, "engagementRate": 7.5 },
           { "id": "apr-tp-5", "title": "Carousel: My Planning Stack", "platform": "Instagram", "views": 58900, "engagementRate": 8.0 }
+        ]
+      },
+      "trending": {
+        "topics": [
+          { "id": "apr-t-1", "topic": "Weekly Planning", "volume": 984000, "change": 246, "category": "Productivity" },
+          { "id": "apr-t-2", "topic": "Budget Desk Refresh", "volume": 612000, "change": 188, "category": "Home" },
+          { "id": "apr-t-3", "topic": "Podcast Season Launches", "volume": 428000, "change": 124, "category": "Creator" },
+          { "id": "apr-t-4", "topic": "Earth Day Content", "volume": 386000, "change": 302, "category": "Lifestyle" },
+          { "id": "apr-t-5", "topic": "Weekly Reviews", "volume": 248000, "change": 68, "category": "Productivity" }
+        ],
+        "hashtags": [
+          { "id": "apr-h-1", "tag": "#WeeklyReset", "posts": 762000, "change": 214 },
+          { "id": "apr-h-2", "tag": "#DeskRefresh", "posts": 546000, "change": 168 },
+          { "id": "apr-h-3", "tag": "#EarthDay", "posts": 1240000, "change": 412 },
+          { "id": "apr-h-4", "tag": "#PlannerCommunity", "posts": 384000, "change": 48 },
+          { "id": "apr-h-5", "tag": "#SpringVibes", "posts": 692000, "change": 96 }
+        ],
+        "music": [
+          { "id": "apr-m-1", "title": "Bloom", "artist": "The Paper Kites", "uses": 342000, "change": 38 },
+          { "id": "apr-m-2", "title": "Espresso", "artist": "Sabrina Carpenter", "uses": 486000, "change": 218 },
+          { "id": "apr-m-3", "title": "Sunny Afternoon", "artist": "Mondo Loops", "uses": 224000, "change": 42 },
+          { "id": "apr-m-4", "title": "Fresh Air", "artist": "Nomyn", "uses": 198000, "change": 27 },
+          { "id": "apr-m-5", "title": "Golden Hour", "artist": "JVKE", "uses": 162000, "change": -12 }
         ]
       }
     },
@@ -488,6 +580,29 @@
           { "id": "may-tp-4", "title": "TikTok: Camera I Actually Use", "platform": "TikTok", "views": 96300, "engagementRate": 8.2 },
           { "id": "may-tp-5", "title": "Short: Studio Tour Update", "platform": "YouTube", "views": 74800, "engagementRate": 7.3 }
         ]
+      },
+      "trending": {
+        "topics": [
+          { "id": "may-t-1", "topic": "Day in the Life", "volume": 1680000, "change": 512, "category": "Creator" },
+          { "id": "may-t-2", "topic": "Full-Time Creator", "volume": 892000, "change": 296, "category": "Career" },
+          { "id": "may-t-3", "topic": "Productivity Myths", "volume": 486000, "change": 148, "category": "Productivity" },
+          { "id": "may-t-4", "topic": "Mother's Day Content", "volume": 1240000, "change": 486, "category": "Lifestyle" },
+          { "id": "may-t-5", "topic": "Content Batching", "volume": 312000, "change": 88, "category": "Creator" }
+        ],
+        "hashtags": [
+          { "id": "may-h-1", "tag": "#DayInMyLife", "posts": 1420000, "change": 386 },
+          { "id": "may-h-2", "tag": "#CreatorLife", "posts": 684000, "change": 148 },
+          { "id": "may-h-3", "tag": "#MothersDay", "posts": 2280000, "change": 612 },
+          { "id": "may-h-4", "tag": "#WFHDay", "posts": 412000, "change": 46 },
+          { "id": "may-h-5", "tag": "#BatchDay", "posts": 186000, "change": 72 }
+        ],
+        "music": [
+          { "id": "may-m-1", "title": "Espresso", "artist": "Sabrina Carpenter", "uses": 812000, "change": 168 },
+          { "id": "may-m-2", "title": "Please Please Please", "artist": "Sabrina Carpenter", "uses": 486000, "change": 342 },
+          { "id": "may-m-3", "title": "Sunny Afternoon", "artist": "Mondo Loops", "uses": 268000, "change": 24 },
+          { "id": "may-m-4", "title": "Bloom", "artist": "The Paper Kites", "uses": 224000, "change": -14 },
+          { "id": "may-m-5", "title": "Warm Day", "artist": "Powfu", "uses": 178000, "change": 46 }
+        ]
       }
     },
     {
@@ -585,6 +700,29 @@
           { "id": "jun-tp-3", "title": "TikTok: Airport Day Timeline", "platform": "TikTok", "views": 124600, "engagementRate": 9.2 },
           { "id": "jun-tp-4", "title": "Short: 3 Books in 60s", "platform": "YouTube", "views": 88400, "engagementRate": 7.8 },
           { "id": "jun-tp-5", "title": "Carousel: What's in My Bag", "platform": "Instagram", "views": 71200, "engagementRate": 8.4 }
+        ]
+      },
+      "trending": {
+        "topics": [
+          { "id": "jun-t-1", "topic": "Summer Reading", "volume": 1240000, "change": 384, "category": "Lifestyle" },
+          { "id": "jun-t-2", "topic": "Travel Packing Lists", "volume": 986000, "change": 296, "category": "Travel" },
+          { "id": "jun-t-3", "topic": "Minimalist Travel", "volume": 542000, "change": 168, "category": "Travel" },
+          { "id": "jun-t-4", "topic": "Pride Content", "volume": 1680000, "change": 512, "category": "Lifestyle" },
+          { "id": "jun-t-5", "topic": "Coastal Aesthetic", "volume": 386000, "change": 124, "category": "Aesthetic" }
+        ],
+        "hashtags": [
+          { "id": "jun-h-1", "tag": "#BookTok", "posts": 3240000, "change": 486 },
+          { "id": "jun-h-2", "tag": "#TravelLight", "posts": 812000, "change": 264 },
+          { "id": "jun-h-3", "tag": "#PrideMonth", "posts": 2680000, "change": 748 },
+          { "id": "jun-h-4", "tag": "#CoastalCore", "posts": 486000, "change": 192 },
+          { "id": "jun-h-5", "tag": "#SummerReset", "posts": 542000, "change": 148 }
+        ],
+        "music": [
+          { "id": "jun-m-1", "title": "Please Please Please", "artist": "Sabrina Carpenter", "uses": 1240000, "change": 384 },
+          { "id": "jun-m-2", "title": "Espresso", "artist": "Sabrina Carpenter", "uses": 986000, "change": 84 },
+          { "id": "jun-m-3", "title": "A Bar Song (Tipsy)", "artist": "Shaboozey", "uses": 486000, "change": 312 },
+          { "id": "jun-m-4", "title": "Beachy", "artist": "Purrple Cat", "uses": 312000, "change": 96 },
+          { "id": "jun-m-5", "title": "Warm Day", "artist": "Powfu", "uses": 224000, "change": 26 }
         ]
       }
     },
@@ -684,6 +822,29 @@
           { "id": "jul-tp-4", "title": "Short: Mid-Year Reset in 60s", "platform": "YouTube", "views": 98600, "engagementRate": 7.9 },
           { "id": "jul-tp-5", "title": "Carousel: Reset Checklist", "platform": "Instagram", "views": 82100, "engagementRate": 8.6 }
         ]
+      },
+      "trending": {
+        "topics": [
+          { "id": "jul-t-1", "topic": "Sleep Optimization", "volume": 1680000, "change": 618, "category": "Wellness" },
+          { "id": "jul-t-2", "topic": "Mid-Year Reset", "volume": 892000, "change": 384, "category": "Productivity" },
+          { "id": "jul-t-3", "topic": "Summer Vlogs", "volume": 748000, "change": 218, "category": "Lifestyle" },
+          { "id": "jul-t-4", "topic": "4th of July Content", "volume": 1420000, "change": 512, "category": "Lifestyle" },
+          { "id": "jul-t-5", "topic": "Camera Gear", "volume": 386000, "change": 84, "category": "Tech" }
+        ],
+        "hashtags": [
+          { "id": "jul-h-1", "tag": "#SleepStack", "posts": 986000, "change": 512 },
+          { "id": "jul-h-2", "tag": "#MidYearReset", "posts": 684000, "change": 296 },
+          { "id": "jul-h-3", "tag": "#SummerVlog", "posts": 812000, "change": 168 },
+          { "id": "jul-h-4", "tag": "#4thOfJuly", "posts": 2140000, "change": 682 },
+          { "id": "jul-h-5", "tag": "#WindDown", "posts": 348000, "change": 124 }
+        ],
+        "music": [
+          { "id": "jul-m-1", "title": "A Bar Song (Tipsy)", "artist": "Shaboozey", "uses": 1420000, "change": 486 },
+          { "id": "jul-m-2", "title": "Not Like Us", "artist": "Kendrick Lamar", "uses": 986000, "change": 612 },
+          { "id": "jul-m-3", "title": "Please Please Please", "artist": "Sabrina Carpenter", "uses": 812000, "change": -24 },
+          { "id": "jul-m-4", "title": "Sleep Well", "artist": "Sleepy Fish", "uses": 284000, "change": 148 },
+          { "id": "jul-m-5", "title": "Beachy", "artist": "Purrple Cat", "uses": 342000, "change": 24 }
+        ]
       }
     },
     {
@@ -781,6 +942,29 @@
           { "id": "aug-tp-3", "title": "TikTok: Desk Setup Reveal", "platform": "TikTok", "views": 154800, "engagementRate": 9.5 },
           { "id": "aug-tp-4", "title": "Short: Backpack Tour", "platform": "YouTube", "views": 112400, "engagementRate": 8.1 },
           { "id": "aug-tp-5", "title": "Reel: Note Taking Method", "platform": "Instagram", "views": 89600, "engagementRate": 8.9 }
+        ]
+      },
+      "trending": {
+        "topics": [
+          { "id": "aug-t-1", "topic": "Back to School", "volume": 2680000, "change": 812, "category": "Lifestyle" },
+          { "id": "aug-t-2", "topic": "Study Setups", "volume": 1240000, "change": 486, "category": "Productivity" },
+          { "id": "aug-t-3", "topic": "Notion Templates", "volume": 892000, "change": 342, "category": "Productivity" },
+          { "id": "aug-t-4", "topic": "Dorm Room Tours", "volume": 748000, "change": 268, "category": "Home" },
+          { "id": "aug-t-5", "topic": "Note-Taking Methods", "volume": 486000, "change": 168, "category": "Productivity" }
+        ],
+        "hashtags": [
+          { "id": "aug-h-1", "tag": "#BackToSchool", "posts": 3480000, "change": 894 },
+          { "id": "aug-h-2", "tag": "#StudySetup", "posts": 1240000, "change": 512 },
+          { "id": "aug-h-3", "tag": "#NotionTemplate", "posts": 684000, "change": 296 },
+          { "id": "aug-h-4", "tag": "#DormTour", "posts": 486000, "change": 342 },
+          { "id": "aug-h-5", "tag": "#StudyTok", "posts": 812000, "change": 268 }
+        ],
+        "music": [
+          { "id": "aug-m-1", "title": "Not Like Us", "artist": "Kendrick Lamar", "uses": 1240000, "change": 148 },
+          { "id": "aug-m-2", "title": "Good Luck, Babe!", "artist": "Chappell Roan", "uses": 986000, "change": 512 },
+          { "id": "aug-m-3", "title": "Sleep Well", "artist": "Sleepy Fish", "uses": 386000, "change": 84 },
+          { "id": "aug-m-4", "title": "Study Session", "artist": "Lofi Girl", "uses": 512000, "change": 218 },
+          { "id": "aug-m-5", "title": "First Day", "artist": "L.Dre", "uses": 224000, "change": 96 }
         ]
       }
     },
@@ -880,6 +1064,29 @@
           { "id": "sep-tp-4", "title": "Short: Fall Desk Reveal", "platform": "YouTube", "views": 102600, "engagementRate": 7.8 },
           { "id": "sep-tp-5", "title": "Carousel: Q4 Focus Areas", "platform": "Instagram", "views": 86400, "engagementRate": 8.7 }
         ]
+      },
+      "trending": {
+        "topics": [
+          { "id": "sep-t-1", "topic": "Q4 Planning", "volume": 1420000, "change": 486, "category": "Productivity" },
+          { "id": "sep-t-2", "topic": "Cozy Aesthetic", "volume": 986000, "change": 384, "category": "Aesthetic" },
+          { "id": "sep-t-3", "topic": "Fall Fashion", "volume": 1680000, "change": 612, "category": "Fashion" },
+          { "id": "sep-t-4", "topic": "90-Day Sprints", "volume": 386000, "change": 148, "category": "Productivity" },
+          { "id": "sep-t-5", "topic": "Autumn Desk Refresh", "volume": 542000, "change": 218, "category": "Home" }
+        ],
+        "hashtags": [
+          { "id": "sep-h-1", "tag": "#FallReset", "posts": 1240000, "change": 486 },
+          { "id": "sep-h-2", "tag": "#CozyVibes", "posts": 986000, "change": 342 },
+          { "id": "sep-h-3", "tag": "#Q4Goals", "posts": 384000, "change": 168 },
+          { "id": "sep-h-4", "tag": "#FallFashion", "posts": 2140000, "change": 786 },
+          { "id": "sep-h-5", "tag": "#SweaterWeather", "posts": 812000, "change": 512 }
+        ],
+        "music": [
+          { "id": "sep-m-1", "title": "Good Luck, Babe!", "artist": "Chappell Roan", "uses": 1420000, "change": 386 },
+          { "id": "sep-m-2", "title": "Birds of a Feather", "artist": "Billie Eilish", "uses": 986000, "change": 618 },
+          { "id": "sep-m-3", "title": "Autumn Leaves", "artist": "Chillhop Music", "uses": 486000, "change": 218 },
+          { "id": "sep-m-4", "title": "Study Session", "artist": "Lofi Girl", "uses": 612000, "change": 96 },
+          { "id": "sep-m-5", "title": "Cozy Cafe", "artist": "Cafe Music BGM", "uses": 342000, "change": 148 }
+        ]
       }
     },
     {
@@ -977,6 +1184,29 @@
           { "id": "oct-tp-3", "title": "Reel: Cozy Fall Morning", "platform": "Instagram", "views": 164200, "engagementRate": 9.6 },
           { "id": "oct-tp-4", "title": "Short: Costume Reveal", "platform": "YouTube", "views": 118400, "engagementRate": 8.2 },
           { "id": "oct-tp-5", "title": "Carousel: October Reads", "platform": "Instagram", "views": 92800, "engagementRate": 8.4 }
+        ]
+      },
+      "trending": {
+        "topics": [
+          { "id": "oct-t-1", "topic": "Halloween Content", "volume": 3240000, "change": 1240, "category": "Lifestyle" },
+          { "id": "oct-t-2", "topic": "Solo Work Life", "volume": 892000, "change": 342, "category": "Career" },
+          { "id": "oct-t-3", "topic": "Cozy Fall Mornings", "volume": 1240000, "change": 486, "category": "Aesthetic" },
+          { "id": "oct-t-4", "topic": "Studio Transformations", "volume": 546000, "change": 218, "category": "Creator" },
+          { "id": "oct-t-5", "topic": "October Reads", "volume": 486000, "change": 168, "category": "Lifestyle" }
+        ],
+        "hashtags": [
+          { "id": "oct-h-1", "tag": "#Halloween2025", "posts": 4280000, "change": 1680 },
+          { "id": "oct-h-2", "tag": "#SpookySeason", "posts": 2140000, "change": 894 },
+          { "id": "oct-h-3", "tag": "#CozyFall", "posts": 1420000, "change": 486 },
+          { "id": "oct-h-4", "tag": "#SoloCreator", "posts": 386000, "change": 148 },
+          { "id": "oct-h-5", "tag": "#BookTok", "posts": 3480000, "change": 312 }
+        ],
+        "music": [
+          { "id": "oct-m-1", "title": "Thriller", "artist": "Michael Jackson", "uses": 2140000, "change": 1420 },
+          { "id": "oct-m-2", "title": "Birds of a Feather", "artist": "Billie Eilish", "uses": 1240000, "change": 168 },
+          { "id": "oct-m-3", "title": "Spooky Scary Skeletons (Remix)", "artist": "The Living Tombstone", "uses": 986000, "change": 892 },
+          { "id": "oct-m-4", "title": "Autumn Leaves", "artist": "Chillhop Music", "uses": 612000, "change": 124 },
+          { "id": "oct-m-5", "title": "Good Luck, Babe!", "artist": "Chappell Roan", "uses": 812000, "change": -18 }
         ]
       }
     },
@@ -1076,6 +1306,29 @@
           { "id": "nov-tp-4", "title": "Short: My BF Framework", "platform": "YouTube", "views": 124600, "engagementRate": 8.0 },
           { "id": "nov-tp-5", "title": "Reel: Cozy Gift Wrap", "platform": "Instagram", "views": 98400, "engagementRate": 9.2 }
         ]
+      },
+      "trending": {
+        "topics": [
+          { "id": "nov-t-1", "topic": "Black Friday Deals", "volume": 4280000, "change": 2140, "category": "Shopping" },
+          { "id": "nov-t-2", "topic": "Gift Guides", "volume": 2680000, "change": 1240, "category": "Shopping" },
+          { "id": "nov-t-3", "topic": "Thanksgiving Content", "volume": 1680000, "change": 812, "category": "Lifestyle" },
+          { "id": "nov-t-4", "topic": "Holiday Prep", "volume": 986000, "change": 486, "category": "Lifestyle" },
+          { "id": "nov-t-5", "topic": "Cyber Monday", "volume": 1420000, "change": 894, "category": "Shopping" }
+        ],
+        "hashtags": [
+          { "id": "nov-h-1", "tag": "#BlackFriday", "posts": 5240000, "change": 2680 },
+          { "id": "nov-h-2", "tag": "#GiftGuide", "posts": 3480000, "change": 1420 },
+          { "id": "nov-h-3", "tag": "#Thanksgiving", "posts": 2140000, "change": 986 },
+          { "id": "nov-h-4", "tag": "#CyberMonday", "posts": 1680000, "change": 812 },
+          { "id": "nov-h-5", "tag": "#HolidayVibes", "posts": 1240000, "change": 486 }
+        ],
+        "music": [
+          { "id": "nov-m-1", "title": "All I Want for Christmas Is You", "artist": "Mariah Carey", "uses": 2140000, "change": 1680 },
+          { "id": "nov-m-2", "title": "Last Christmas", "artist": "Wham!", "uses": 1240000, "change": 894 },
+          { "id": "nov-m-3", "title": "Birds of a Feather", "artist": "Billie Eilish", "uses": 986000, "change": -218 },
+          { "id": "nov-m-4", "title": "Cozy Fireplace", "artist": "Chillhop Music", "uses": 612000, "change": 342 },
+          { "id": "nov-m-5", "title": "Home", "artist": "Edward Sharpe", "uses": 384000, "change": 168 }
+        ]
       }
     },
     {
@@ -1173,6 +1426,29 @@
           { "id": "dec-tp-3", "title": "TikTok: Best of 2025 Mashup", "platform": "TikTok", "views": 214600, "engagementRate": 9.7 },
           { "id": "dec-tp-4", "title": "Short: 2026 Setup Sneak Peek", "platform": "YouTube", "views": 158400, "engagementRate": 8.4 },
           { "id": "dec-tp-5", "title": "Carousel: 10 Lessons from 2025", "platform": "Instagram", "views": 124200, "engagementRate": 9.6 }
+        ]
+      },
+      "trending": {
+        "topics": [
+          { "id": "dec-t-1", "topic": "Year in Review", "volume": 3240000, "change": 1680, "category": "Creator" },
+          { "id": "dec-t-2", "topic": "2026 Predictions", "volume": 1680000, "change": 894, "category": "Trends" },
+          { "id": "dec-t-3", "topic": "Cozy Winter Setups", "volume": 2140000, "change": 812, "category": "Home" },
+          { "id": "dec-t-4", "topic": "Christmas Content", "volume": 4280000, "change": 2140, "category": "Lifestyle" },
+          { "id": "dec-t-5", "topic": "New Year Prep", "volume": 1240000, "change": 486, "category": "Lifestyle" }
+        ],
+        "hashtags": [
+          { "id": "dec-h-1", "tag": "#YearInReview", "posts": 4280000, "change": 2140 },
+          { "id": "dec-h-2", "tag": "#Christmas2025", "posts": 5280000, "change": 2680 },
+          { "id": "dec-h-3", "tag": "#CozyWinter", "posts": 2140000, "change": 894 },
+          { "id": "dec-h-4", "tag": "#2026Goals", "posts": 1680000, "change": 1240 },
+          { "id": "dec-h-5", "tag": "#Wrapped2025", "posts": 3480000, "change": 2480 }
+        ],
+        "music": [
+          { "id": "dec-m-1", "title": "All I Want for Christmas Is You", "artist": "Mariah Carey", "uses": 4280000, "change": 2140 },
+          { "id": "dec-m-2", "title": "Last Christmas", "artist": "Wham!", "uses": 2140000, "change": 986 },
+          { "id": "dec-m-3", "title": "Rockin' Around the Christmas Tree", "artist": "Brenda Lee", "uses": 1680000, "change": 812 },
+          { "id": "dec-m-4", "title": "Cozy Fireplace", "artist": "Chillhop Music", "uses": 812000, "change": 218 },
+          { "id": "dec-m-5", "title": "Auld Lang Syne (Lofi)", "artist": "Purrple Cat", "uses": 486000, "change": 342 }
         ]
       }
     }
