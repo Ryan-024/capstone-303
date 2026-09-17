@@ -1,0 +1,1180 @@
+{
+  "months": [
+    {
+      "month": "January",
+      "year": 2025,
+      "monthIndex": 0,
+      "contentFeedOverview": {
+        "overPerforming": [
+          {
+            "id": "jan-op-1",
+            "title": "New Year, New Setup: My 2025 Studio Tour",
+            "platform": "YouTube",
+            "publishedDate": "2025-01-04",
+            "thumbnail": "https://picsum.photos/seed/jan-op-1/400/225",
+            "views": 184500,
+            "likes": 12800,
+            "comments": 942,
+            "shares": 1580,
+            "engagementRate": 8.3,
+            "vsAverage": 62
+          },
+          {
+            "id": "jan-op-2",
+            "title": "5 Habits That Changed My Life This Year",
+            "platform": "Instagram",
+            "publishedDate": "2025-01-12",
+            "thumbnail": "https://picsum.photos/seed/jan-op-2/400/225",
+            "views": 96200,
+            "likes": 8450,
+            "comments": 611,
+            "shares": 1220,
+            "engagementRate": 10.7,
+            "vsAverage": 48
+          }
+        ],
+        "underPerforming": [
+          {
+            "id": "jan-up-1",
+            "title": "Quick Tip: Keyboard Shortcut Roundup",
+            "platform": "TikTok",
+            "publishedDate": "2025-01-08",
+            "thumbnail": "https://picsum.photos/seed/jan-up-1/400/225",
+            "views": 3400,
+            "likes": 128,
+            "comments": 14,
+            "shares": 9,
+            "engagementRate": 4.4,
+            "vsAverage": -58
+          },
+          {
+            "id": "jan-up-2",
+            "title": "Behind the Scenes: Editing Rig",
+            "platform": "YouTube",
+            "publishedDate": "2025-01-22",
+            "thumbnail": "https://picsum.photos/seed/jan-up-2/400/225",
+            "views": 5200,
+            "likes": 210,
+            "comments": 26,
+            "shares": 12,
+            "engagementRate": 4.8,
+            "vsAverage": -47
+          }
+        ]
+      },
+      "subscriptionManagement": {
+        "totalSubscribers": 128400,
+        "newSubscribers": 4200,
+        "lostSubscribers": 780,
+        "netChange": 3420,
+        "vsPreviousMonth": {
+          "totalSubscribersDelta": 3420,
+          "newSubscribersDelta": 340,
+          "lostSubscribersDelta": -60,
+          "trend": "up"
+        }
+      },
+      "uploadQueue": [
+        { "id": "jan-q-1", "title": "Weekly Recap: Best of Jan Week 4", "platform": "YouTube", "scheduledDate": "2025-01-27", "status": "scheduled", "type": "video" },
+        { "id": "jan-q-2", "title": "Reel: Morning Routine Refresh", "platform": "Instagram", "scheduledDate": "2025-01-28", "status": "scheduled", "type": "reel" },
+        { "id": "jan-q-3", "title": "Thread: Lessons from 2024", "platform": "X", "scheduledDate": "2025-01-29", "status": "draft", "type": "thread" },
+        { "id": "jan-q-4", "title": "TikTok: Fast Cut Studio B-roll", "platform": "TikTok", "scheduledDate": "2025-01-30", "status": "scheduled", "type": "short" },
+        { "id": "jan-q-5", "title": "Newsletter: February Preview", "platform": "Substack", "scheduledDate": "2025-01-31", "status": "in-review", "type": "article" }
+      ],
+      "engagementSummary": {
+        "topComments": [
+          { "id": "jan-c-1", "author": "@mika.creates", "avatar": "https://i.pravatar.cc/64?img=11", "postTitle": "New Year, New Setup", "comment": "That monitor arm setup is genius, can you link the mount?", "likes": 214, "timestamp": "2025-01-05T14:22:00Z", "priority": "high" },
+          { "id": "jan-c-2", "author": "@devlogging", "avatar": "https://i.pravatar.cc/64?img=12", "postTitle": "5 Habits That Changed My Life", "comment": "Habit #3 is a game changer. Would love a deeper dive.", "likes": 178, "timestamp": "2025-01-13T09:41:00Z", "priority": "high" },
+          { "id": "jan-c-3", "author": "@sunny.jpg", "avatar": "https://i.pravatar.cc/64?img=13", "postTitle": "New Year, New Setup", "comment": "What lighting are you using here? Looks so soft.", "likes": 132, "timestamp": "2025-01-06T18:05:00Z", "priority": "medium" },
+          { "id": "jan-c-4", "author": "@codebyalex", "avatar": "https://i.pravatar.cc/64?img=14", "postTitle": "Behind the Scenes: Editing Rig", "comment": "Are you still on DaVinci or moved to Premiere?", "likes": 88, "timestamp": "2025-01-23T20:10:00Z", "priority": "medium" },
+          { "id": "jan-c-5", "author": "@rae.builds", "avatar": "https://i.pravatar.cc/64?img=15", "postTitle": "Quick Tip: Keyboard Shortcut Roundup", "comment": "More of these please! Short + snappy is perfect.", "likes": 61, "timestamp": "2025-01-09T12:15:00Z", "priority": "low" }
+        ],
+        "topPerformingContent": [
+          { "id": "jan-op-1", "title": "New Year, New Setup: My 2025 Studio Tour", "platform": "YouTube", "views": 184500, "engagementRate": 8.3 },
+          { "id": "jan-op-2", "title": "5 Habits That Changed My Life This Year", "platform": "Instagram", "views": 96200, "engagementRate": 10.7 },
+          { "id": "jan-tp-3", "title": "Cold Plunge: Worth It?", "platform": "TikTok", "views": 72400, "engagementRate": 9.1 },
+          { "id": "jan-tp-4", "title": "Notion Template: 2025 Planner", "platform": "YouTube", "views": 54100, "engagementRate": 6.5 },
+          { "id": "jan-tp-5", "title": "Podcast Clip: On Consistency", "platform": "Instagram", "views": 43880, "engagementRate": 7.8 }
+        ]
+      }
+    },
+    {
+      "month": "February",
+      "year": 2025,
+      "monthIndex": 1,
+      "contentFeedOverview": {
+        "overPerforming": [
+          {
+            "id": "feb-op-1",
+            "title": "The Ultimate Valentine's Gift Guide",
+            "platform": "Instagram",
+            "publishedDate": "2025-02-07",
+            "thumbnail": "https://picsum.photos/seed/feb-op-1/400/225",
+            "views": 142800,
+            "likes": 11200,
+            "comments": 745,
+            "shares": 2100,
+            "engagementRate": 9.8,
+            "vsAverage": 55
+          },
+          {
+            "id": "feb-op-2",
+            "title": "I Tried Waking Up at 5am for 30 Days",
+            "platform": "YouTube",
+            "publishedDate": "2025-02-18",
+            "thumbnail": "https://picsum.photos/seed/feb-op-2/400/225",
+            "views": 210400,
+            "likes": 15600,
+            "comments": 1180,
+            "shares": 1840,
+            "engagementRate": 8.9,
+            "vsAverage": 71
+          }
+        ],
+        "underPerforming": [
+          {
+            "id": "feb-up-1",
+            "title": "Sunday Reset Vlog",
+            "platform": "YouTube",
+            "publishedDate": "2025-02-09",
+            "thumbnail": "https://picsum.photos/seed/feb-up-1/400/225",
+            "views": 4100,
+            "likes": 180,
+            "comments": 22,
+            "shares": 8,
+            "engagementRate": 5.1,
+            "vsAverage": -52
+          },
+          {
+            "id": "feb-up-2",
+            "title": "Coffee Shop Ambience Loop",
+            "platform": "TikTok",
+            "publishedDate": "2025-02-24",
+            "thumbnail": "https://picsum.photos/seed/feb-up-2/400/225",
+            "views": 2900,
+            "likes": 96,
+            "comments": 8,
+            "shares": 4,
+            "engagementRate": 3.7,
+            "vsAverage": -64
+          }
+        ]
+      },
+      "subscriptionManagement": {
+        "totalSubscribers": 132600,
+        "newSubscribers": 5100,
+        "lostSubscribers": 900,
+        "netChange": 4200,
+        "vsPreviousMonth": {
+          "totalSubscribersDelta": 4200,
+          "newSubscribersDelta": 900,
+          "lostSubscribersDelta": 120,
+          "trend": "up"
+        }
+      },
+      "uploadQueue": [
+        { "id": "feb-q-1", "title": "Valentine's Recap Reel", "platform": "Instagram", "scheduledDate": "2025-02-15", "status": "scheduled", "type": "reel" },
+        { "id": "feb-q-2", "title": "Podcast Ep. 12: Deep Work", "platform": "YouTube", "scheduledDate": "2025-02-17", "status": "scheduled", "type": "video" },
+        { "id": "feb-q-3", "title": "Short: Notion Tip of the Week", "platform": "TikTok", "scheduledDate": "2025-02-19", "status": "draft", "type": "short" },
+        { "id": "feb-q-4", "title": "Thread: Building an Audience", "platform": "X", "scheduledDate": "2025-02-20", "status": "scheduled", "type": "thread" },
+        { "id": "feb-q-5", "title": "Newsletter: Feb Highlights", "platform": "Substack", "scheduledDate": "2025-02-28", "status": "in-review", "type": "article" }
+      ],
+      "engagementSummary": {
+        "topComments": [
+          { "id": "feb-c-1", "author": "@juno.lens", "avatar": "https://i.pravatar.cc/64?img=21", "postTitle": "I Tried Waking Up at 5am", "comment": "Day 30 update please, did the habit stick?", "likes": 298, "timestamp": "2025-02-19T08:14:00Z", "priority": "high" },
+          { "id": "feb-c-2", "author": "@kai.builds", "avatar": "https://i.pravatar.cc/64?img=22", "postTitle": "The Ultimate Valentine's Gift Guide", "comment": "The stationery pick is chef's kiss. Where's the link?", "likes": 221, "timestamp": "2025-02-08T13:44:00Z", "priority": "high" },
+          { "id": "feb-c-3", "author": "@lo.fi.dev", "avatar": "https://i.pravatar.cc/64?img=23", "postTitle": "I Tried Waking Up at 5am", "comment": "Struggling with this myself, any tips for winter mornings?", "likes": 156, "timestamp": "2025-02-20T07:02:00Z", "priority": "medium" },
+          { "id": "feb-c-4", "author": "@ellis.writes", "avatar": "https://i.pravatar.cc/64?img=24", "postTitle": "Sunday Reset Vlog", "comment": "Love the calm energy, more like this!", "likes": 74, "timestamp": "2025-02-10T19:30:00Z", "priority": "medium" },
+          { "id": "feb-c-5", "author": "@mo.reads", "avatar": "https://i.pravatar.cc/64?img=25", "postTitle": "Coffee Shop Ambience Loop", "comment": "Perfect study background, thank you!", "likes": 42, "timestamp": "2025-02-25T11:20:00Z", "priority": "low" }
+        ],
+        "topPerformingContent": [
+          { "id": "feb-op-2", "title": "I Tried Waking Up at 5am for 30 Days", "platform": "YouTube", "views": 210400, "engagementRate": 8.9 },
+          { "id": "feb-op-1", "title": "The Ultimate Valentine's Gift Guide", "platform": "Instagram", "views": 142800, "engagementRate": 9.8 },
+          { "id": "feb-tp-3", "title": "Reel: 60s Productivity Reset", "platform": "Instagram", "views": 88600, "engagementRate": 8.2 },
+          { "id": "feb-tp-4", "title": "TikTok: My Morning Stack", "platform": "TikTok", "views": 64200, "engagementRate": 7.4 },
+          { "id": "feb-tp-5", "title": "Short: Fastest Way to Journal", "platform": "YouTube", "views": 51000, "engagementRate": 6.9 }
+        ]
+      }
+    },
+    {
+      "month": "March",
+      "year": 2025,
+      "monthIndex": 2,
+      "contentFeedOverview": {
+        "overPerforming": [
+          {
+            "id": "mar-op-1",
+            "title": "Spring Cleaning My Digital Life",
+            "platform": "YouTube",
+            "publishedDate": "2025-03-05",
+            "thumbnail": "https://picsum.photos/seed/mar-op-1/400/225",
+            "views": 168300,
+            "likes": 12100,
+            "comments": 820,
+            "shares": 1490,
+            "engagementRate": 8.5,
+            "vsAverage": 44
+          },
+          {
+            "id": "mar-op-2",
+            "title": "My Honest Review: 3 Months with the New iPad",
+            "platform": "YouTube",
+            "publishedDate": "2025-03-19",
+            "thumbnail": "https://picsum.photos/seed/mar-op-2/400/225",
+            "views": 245600,
+            "likes": 18400,
+            "comments": 1420,
+            "shares": 2210,
+            "engagementRate": 9.1,
+            "vsAverage": 78
+          }
+        ],
+        "underPerforming": [
+          {
+            "id": "mar-up-1",
+            "title": "Ambient Studio Loop",
+            "platform": "TikTok",
+            "publishedDate": "2025-03-11",
+            "thumbnail": "https://picsum.photos/seed/mar-up-1/400/225",
+            "views": 3800,
+            "likes": 140,
+            "comments": 11,
+            "shares": 6,
+            "engagementRate": 4.1,
+            "vsAverage": -55
+          },
+          {
+            "id": "mar-up-2",
+            "title": "Q&A: Random Questions Edition",
+            "platform": "Instagram",
+            "publishedDate": "2025-03-26",
+            "thumbnail": "https://picsum.photos/seed/mar-up-2/400/225",
+            "views": 5900,
+            "likes": 240,
+            "comments": 33,
+            "shares": 11,
+            "engagementRate": 4.8,
+            "vsAverage": -49
+          }
+        ]
+      },
+      "subscriptionManagement": {
+        "totalSubscribers": 138900,
+        "newSubscribers": 6800,
+        "lostSubscribers": 500,
+        "netChange": 6300,
+        "vsPreviousMonth": {
+          "totalSubscribersDelta": 6300,
+          "newSubscribersDelta": 1700,
+          "lostSubscribersDelta": -400,
+          "trend": "up"
+        }
+      },
+      "uploadQueue": [
+        { "id": "mar-q-1", "title": "iPad Deep Dive Part 2", "platform": "YouTube", "scheduledDate": "2025-03-28", "status": "scheduled", "type": "video" },
+        { "id": "mar-q-2", "title": "Reel: Spring Desk Refresh", "platform": "Instagram", "scheduledDate": "2025-03-29", "status": "scheduled", "type": "reel" },
+        { "id": "mar-q-3", "title": "TikTok: Fastest App Setup", "platform": "TikTok", "scheduledDate": "2025-03-30", "status": "draft", "type": "short" },
+        { "id": "mar-q-4", "title": "Thread: 5 Underrated Apps", "platform": "X", "scheduledDate": "2025-03-31", "status": "scheduled", "type": "thread" },
+        { "id": "mar-q-5", "title": "Newsletter: April Preview", "platform": "Substack", "scheduledDate": "2025-04-01", "status": "in-review", "type": "article" }
+      ],
+      "engagementSummary": {
+        "topComments": [
+          { "id": "mar-c-1", "author": "@finnwrites", "avatar": "https://i.pravatar.cc/64?img=31", "postTitle": "My Honest Review: iPad", "comment": "Best iPad review I've seen this year, so balanced.", "likes": 342, "timestamp": "2025-03-20T10:11:00Z", "priority": "high" },
+          { "id": "mar-c-2", "author": "@sable.codes", "avatar": "https://i.pravatar.cc/64?img=32", "postTitle": "Spring Cleaning My Digital Life", "comment": "Can you share your folder structure? Would love a template.", "likes": 245, "timestamp": "2025-03-06T15:35:00Z", "priority": "high" },
+          { "id": "mar-c-3", "author": "@noor.pixels", "avatar": "https://i.pravatar.cc/64?img=33", "postTitle": "My Honest Review: iPad", "comment": "Do you think the Pro is worth it over the Air?", "likes": 189, "timestamp": "2025-03-21T09:04:00Z", "priority": "high" },
+          { "id": "mar-c-4", "author": "@june.harbor", "avatar": "https://i.pravatar.cc/64?img=34", "postTitle": "Spring Cleaning My Digital Life", "comment": "This inspired me to finally clear my downloads folder.", "likes": 96, "timestamp": "2025-03-08T21:22:00Z", "priority": "medium" },
+          { "id": "mar-c-5", "author": "@zara.frames", "avatar": "https://i.pravatar.cc/64?img=35", "postTitle": "Q&A: Random Questions", "comment": "Would love a proper Q&A with subscriber questions!", "likes": 54, "timestamp": "2025-03-27T18:50:00Z", "priority": "low" }
+        ],
+        "topPerformingContent": [
+          { "id": "mar-op-2", "title": "My Honest Review: 3 Months with the New iPad", "platform": "YouTube", "views": 245600, "engagementRate": 9.1 },
+          { "id": "mar-op-1", "title": "Spring Cleaning My Digital Life", "platform": "YouTube", "views": 168300, "engagementRate": 8.5 },
+          { "id": "mar-tp-3", "title": "Reel: Apps I Deleted This Month", "platform": "Instagram", "views": 102400, "engagementRate": 8.7 },
+          { "id": "mar-tp-4", "title": "TikTok: iPad Multitask Trick", "platform": "TikTok", "views": 78500, "engagementRate": 7.6 },
+          { "id": "mar-tp-5", "title": "Short: Desk Tour in 30s", "platform": "YouTube", "views": 60200, "engagementRate": 7.0 }
+        ]
+      }
+    },
+    {
+      "month": "April",
+      "year": 2025,
+      "monthIndex": 3,
+      "contentFeedOverview": {
+        "overPerforming": [
+          {
+            "id": "apr-op-1",
+            "title": "How I Plan My Week in 20 Minutes",
+            "platform": "YouTube",
+            "publishedDate": "2025-04-03",
+            "thumbnail": "https://picsum.photos/seed/apr-op-1/400/225",
+            "views": 198700,
+            "likes": 14200,
+            "comments": 980,
+            "shares": 1720,
+            "engagementRate": 8.5,
+            "vsAverage": 58
+          },
+          {
+            "id": "apr-op-2",
+            "title": "Reel: Desk Refresh Under $100",
+            "platform": "Instagram",
+            "publishedDate": "2025-04-15",
+            "thumbnail": "https://picsum.photos/seed/apr-op-2/400/225",
+            "views": 156300,
+            "likes": 12800,
+            "comments": 640,
+            "shares": 2380,
+            "engagementRate": 10.1,
+            "vsAverage": 64
+          }
+        ],
+        "underPerforming": [
+          {
+            "id": "apr-up-1",
+            "title": "Voice Memo: Random Thoughts",
+            "platform": "Substack",
+            "publishedDate": "2025-04-09",
+            "thumbnail": "https://picsum.photos/seed/apr-up-1/400/225",
+            "views": 2100,
+            "likes": 88,
+            "comments": 9,
+            "shares": 3,
+            "engagementRate": 4.7,
+            "vsAverage": -60
+          },
+          {
+            "id": "apr-up-2",
+            "title": "Podcast Trailer: Season 2",
+            "platform": "YouTube",
+            "publishedDate": "2025-04-21",
+            "thumbnail": "https://picsum.photos/seed/apr-up-2/400/225",
+            "views": 6400,
+            "likes": 260,
+            "comments": 34,
+            "shares": 14,
+            "engagementRate": 4.8,
+            "vsAverage": -44
+          }
+        ]
+      },
+      "subscriptionManagement": {
+        "totalSubscribers": 144600,
+        "newSubscribers": 6300,
+        "lostSubscribers": 600,
+        "netChange": 5700,
+        "vsPreviousMonth": {
+          "totalSubscribersDelta": 5700,
+          "newSubscribersDelta": -500,
+          "lostSubscribersDelta": 100,
+          "trend": "up"
+        }
+      },
+      "uploadQueue": [
+        { "id": "apr-q-1", "title": "Podcast S2 Ep 1: Focus", "platform": "YouTube", "scheduledDate": "2025-04-24", "status": "scheduled", "type": "video" },
+        { "id": "apr-q-2", "title": "Reel: Weekly Planner Tour", "platform": "Instagram", "scheduledDate": "2025-04-25", "status": "scheduled", "type": "reel" },
+        { "id": "apr-q-3", "title": "TikTok: 3 Planning Mistakes", "platform": "TikTok", "scheduledDate": "2025-04-26", "status": "draft", "type": "short" },
+        { "id": "apr-q-4", "title": "Thread: Weekly Review Template", "platform": "X", "scheduledDate": "2025-04-27", "status": "scheduled", "type": "thread" },
+        { "id": "apr-q-5", "title": "Newsletter: May Preview", "platform": "Substack", "scheduledDate": "2025-04-30", "status": "in-review", "type": "article" }
+      ],
+      "engagementSummary": {
+        "topComments": [
+          { "id": "apr-c-1", "author": "@tay.pixels", "avatar": "https://i.pravatar.cc/64?img=41", "postTitle": "How I Plan My Week in 20 Minutes", "comment": "This exact system changed my Sundays. Thank you!", "likes": 312, "timestamp": "2025-04-04T09:22:00Z", "priority": "high" },
+          { "id": "apr-c-2", "author": "@ori.builds", "avatar": "https://i.pravatar.cc/64?img=42", "postTitle": "Reel: Desk Refresh Under $100", "comment": "Where's the shelf from? Been searching for weeks!", "likes": 267, "timestamp": "2025-04-16T14:12:00Z", "priority": "high" },
+          { "id": "apr-c-3", "author": "@sana.type", "avatar": "https://i.pravatar.cc/64?img=43", "postTitle": "How I Plan My Week in 20 Minutes", "comment": "Would love a downloadable template of this!", "likes": 201, "timestamp": "2025-04-05T18:44:00Z", "priority": "high" },
+          { "id": "apr-c-4", "author": "@ben.frames", "avatar": "https://i.pravatar.cc/64?img=44", "postTitle": "Podcast Trailer: Season 2", "comment": "Excited for S2! Any guest hints?", "likes": 88, "timestamp": "2025-04-22T20:00:00Z", "priority": "medium" },
+          { "id": "apr-c-5", "author": "@lex.reads", "avatar": "https://i.pravatar.cc/64?img=45", "postTitle": "Voice Memo: Random Thoughts", "comment": "More voice memos please, loved the calm vibe.", "likes": 39, "timestamp": "2025-04-10T22:15:00Z", "priority": "low" }
+        ],
+        "topPerformingContent": [
+          { "id": "apr-op-1", "title": "How I Plan My Week in 20 Minutes", "platform": "YouTube", "views": 198700, "engagementRate": 8.5 },
+          { "id": "apr-op-2", "title": "Reel: Desk Refresh Under $100", "platform": "Instagram", "views": 156300, "engagementRate": 10.1 },
+          { "id": "apr-tp-3", "title": "TikTok: Planner Flip Trick", "platform": "TikTok", "views": 94200, "engagementRate": 8.9 },
+          { "id": "apr-tp-4", "title": "Short: Desk Refresh Reveal", "platform": "YouTube", "views": 71300, "engagementRate": 7.5 },
+          { "id": "apr-tp-5", "title": "Carousel: My Planning Stack", "platform": "Instagram", "views": 58900, "engagementRate": 8.0 }
+        ]
+      }
+    },
+    {
+      "month": "May",
+      "year": 2025,
+      "monthIndex": 4,
+      "contentFeedOverview": {
+        "overPerforming": [
+          {
+            "id": "may-op-1",
+            "title": "A Day in My Life as a Full-Time Creator",
+            "platform": "YouTube",
+            "publishedDate": "2025-05-06",
+            "thumbnail": "https://picsum.photos/seed/may-op-1/400/225",
+            "views": 276400,
+            "likes": 19800,
+            "comments": 1520,
+            "shares": 2340,
+            "engagementRate": 8.6,
+            "vsAverage": 82
+          },
+          {
+            "id": "may-op-2",
+            "title": "Carousel: 7 Productivity Myths",
+            "platform": "Instagram",
+            "publishedDate": "2025-05-14",
+            "thumbnail": "https://picsum.photos/seed/may-op-2/400/225",
+            "views": 132400,
+            "likes": 11400,
+            "comments": 720,
+            "shares": 2540,
+            "engagementRate": 11.1,
+            "vsAverage": 59
+          }
+        ],
+        "underPerforming": [
+          {
+            "id": "may-up-1",
+            "title": "Live Replay: May Meetup",
+            "platform": "YouTube",
+            "publishedDate": "2025-05-11",
+            "thumbnail": "https://picsum.photos/seed/may-up-1/400/225",
+            "views": 4600,
+            "likes": 190,
+            "comments": 28,
+            "shares": 9,
+            "engagementRate": 4.9,
+            "vsAverage": -51
+          },
+          {
+            "id": "may-up-2",
+            "title": "Short: Random Gear Rant",
+            "platform": "TikTok",
+            "publishedDate": "2025-05-23",
+            "thumbnail": "https://picsum.photos/seed/may-up-2/400/225",
+            "views": 3200,
+            "likes": 110,
+            "comments": 12,
+            "shares": 5,
+            "engagementRate": 3.9,
+            "vsAverage": -62
+          }
+        ]
+      },
+      "subscriptionManagement": {
+        "totalSubscribers": 152800,
+        "newSubscribers": 8900,
+        "lostSubscribers": 700,
+        "netChange": 8200,
+        "vsPreviousMonth": {
+          "totalSubscribersDelta": 8200,
+          "newSubscribersDelta": 2600,
+          "lostSubscribersDelta": 100,
+          "trend": "up"
+        }
+      },
+      "uploadQueue": [
+        { "id": "may-q-1", "title": "Day in the Life Behind the Scenes", "platform": "YouTube", "scheduledDate": "2025-05-28", "status": "scheduled", "type": "video" },
+        { "id": "may-q-2", "title": "Reel: My Creator Toolkit", "platform": "Instagram", "scheduledDate": "2025-05-29", "status": "scheduled", "type": "reel" },
+        { "id": "may-q-3", "title": "TikTok: 60s Studio Reset", "platform": "TikTok", "scheduledDate": "2025-05-30", "status": "draft", "type": "short" },
+        { "id": "may-q-4", "title": "Thread: How I Batch Content", "platform": "X", "scheduledDate": "2025-05-31", "status": "scheduled", "type": "thread" },
+        { "id": "may-q-5", "title": "Newsletter: Summer Slowdown", "platform": "Substack", "scheduledDate": "2025-06-01", "status": "in-review", "type": "article" }
+      ],
+      "engagementSummary": {
+        "topComments": [
+          { "id": "may-c-1", "author": "@wren.creates", "avatar": "https://i.pravatar.cc/64?img=51", "postTitle": "A Day in My Life as a Full-Time Creator", "comment": "This is the most realistic creator day-in-life I've seen. Thank you.", "likes": 402, "timestamp": "2025-05-07T11:18:00Z", "priority": "high" },
+          { "id": "may-c-2", "author": "@sol.frames", "avatar": "https://i.pravatar.cc/64?img=52", "postTitle": "Carousel: 7 Productivity Myths", "comment": "Myth #4 hit hard. Sharing with my team.", "likes": 287, "timestamp": "2025-05-15T09:02:00Z", "priority": "high" },
+          { "id": "may-c-3", "author": "@nova.desk", "avatar": "https://i.pravatar.cc/64?img=53", "postTitle": "A Day in My Life as a Full-Time Creator", "comment": "How do you keep your energy up in the afternoons?", "likes": 172, "timestamp": "2025-05-08T15:47:00Z", "priority": "medium" },
+          { "id": "may-c-4", "author": "@indi.jots", "avatar": "https://i.pravatar.cc/64?img=54", "postTitle": "Live Replay: May Meetup", "comment": "Missed the live, glad the replay is here!", "likes": 78, "timestamp": "2025-05-12T19:30:00Z", "priority": "medium" },
+          { "id": "may-c-5", "author": "@bea.reads", "avatar": "https://i.pravatar.cc/64?img=55", "postTitle": "Short: Random Gear Rant", "comment": "Ha, felt this. What would you replace it with?", "likes": 44, "timestamp": "2025-05-24T20:11:00Z", "priority": "low" }
+        ],
+        "topPerformingContent": [
+          { "id": "may-op-1", "title": "A Day in My Life as a Full-Time Creator", "platform": "YouTube", "views": 276400, "engagementRate": 8.6 },
+          { "id": "may-op-2", "title": "Carousel: 7 Productivity Myths", "platform": "Instagram", "views": 132400, "engagementRate": 11.1 },
+          { "id": "may-tp-3", "title": "Reel: Morning to Night Routine", "platform": "Instagram", "views": 118600, "engagementRate": 9.4 },
+          { "id": "may-tp-4", "title": "TikTok: Camera I Actually Use", "platform": "TikTok", "views": 96300, "engagementRate": 8.2 },
+          { "id": "may-tp-5", "title": "Short: Studio Tour Update", "platform": "YouTube", "views": 74800, "engagementRate": 7.3 }
+        ]
+      }
+    },
+    {
+      "month": "June",
+      "year": 2025,
+      "monthIndex": 5,
+      "contentFeedOverview": {
+        "overPerforming": [
+          {
+            "id": "jun-op-1",
+            "title": "Summer Reading List: 10 Books That Changed Me",
+            "platform": "YouTube",
+            "publishedDate": "2025-06-04",
+            "thumbnail": "https://picsum.photos/seed/jun-op-1/400/225",
+            "views": 221800,
+            "likes": 16400,
+            "comments": 1180,
+            "shares": 1980,
+            "engagementRate": 8.8,
+            "vsAverage": 61
+          },
+          {
+            "id": "jun-op-2",
+            "title": "Reel: Travel Setup Under 10lbs",
+            "platform": "Instagram",
+            "publishedDate": "2025-06-17",
+            "thumbnail": "https://picsum.photos/seed/jun-op-2/400/225",
+            "views": 187500,
+            "likes": 14800,
+            "comments": 890,
+            "shares": 3120,
+            "engagementRate": 10.0,
+            "vsAverage": 69
+          }
+        ],
+        "underPerforming": [
+          {
+            "id": "jun-up-1",
+            "title": "Studio Rain Ambience",
+            "platform": "TikTok",
+            "publishedDate": "2025-06-09",
+            "thumbnail": "https://picsum.photos/seed/jun-up-1/400/225",
+            "views": 3100,
+            "likes": 118,
+            "comments": 9,
+            "shares": 4,
+            "engagementRate": 4.2,
+            "vsAverage": -58
+          },
+          {
+            "id": "jun-up-2",
+            "title": "Q&A: Quick Gear Picks",
+            "platform": "Instagram",
+            "publishedDate": "2025-06-25",
+            "thumbnail": "https://picsum.photos/seed/jun-up-2/400/225",
+            "views": 6800,
+            "likes": 280,
+            "comments": 32,
+            "shares": 14,
+            "engagementRate": 4.8,
+            "vsAverage": -42
+          }
+        ]
+      },
+      "subscriptionManagement": {
+        "totalSubscribers": 162400,
+        "newSubscribers": 10200,
+        "lostSubscribers": 600,
+        "netChange": 9600,
+        "vsPreviousMonth": {
+          "totalSubscribersDelta": 9600,
+          "newSubscribersDelta": 1300,
+          "lostSubscribersDelta": -100,
+          "trend": "up"
+        }
+      },
+      "uploadQueue": [
+        { "id": "jun-q-1", "title": "Travel Vlog: Coastal Week", "platform": "YouTube", "scheduledDate": "2025-06-27", "status": "scheduled", "type": "video" },
+        { "id": "jun-q-2", "title": "Reel: Packing Cube Hacks", "platform": "Instagram", "scheduledDate": "2025-06-28", "status": "scheduled", "type": "reel" },
+        { "id": "jun-q-3", "title": "TikTok: Travel Day Timeline", "platform": "TikTok", "scheduledDate": "2025-06-29", "status": "draft", "type": "short" },
+        { "id": "jun-q-4", "title": "Thread: What I Left Behind", "platform": "X", "scheduledDate": "2025-06-30", "status": "scheduled", "type": "thread" },
+        { "id": "jun-q-5", "title": "Newsletter: July Reading Picks", "platform": "Substack", "scheduledDate": "2025-07-01", "status": "in-review", "type": "article" }
+      ],
+      "engagementSummary": {
+        "topComments": [
+          { "id": "jun-c-1", "author": "@ash.reads", "avatar": "https://i.pravatar.cc/64?img=61", "postTitle": "Summer Reading List", "comment": "Adding all 10 to my list. Which was your #1?", "likes": 356, "timestamp": "2025-06-05T10:30:00Z", "priority": "high" },
+          { "id": "jun-c-2", "author": "@vale.frames", "avatar": "https://i.pravatar.cc/64?img=62", "postTitle": "Reel: Travel Setup Under 10lbs", "comment": "Bag brand and model please! Been looking forever.", "likes": 298, "timestamp": "2025-06-18T13:45:00Z", "priority": "high" },
+          { "id": "jun-c-3", "author": "@ram.creates", "avatar": "https://i.pravatar.cc/64?img=63", "postTitle": "Summer Reading List", "comment": "Would love a deep dive on book #7!", "likes": 174, "timestamp": "2025-06-06T20:12:00Z", "priority": "medium" },
+          { "id": "jun-c-4", "author": "@tia.pixels", "avatar": "https://i.pravatar.cc/64?img=64", "postTitle": "Q&A: Quick Gear Picks", "comment": "More Q&As please, they're so useful.", "likes": 82, "timestamp": "2025-06-26T18:00:00Z", "priority": "medium" },
+          { "id": "jun-c-5", "author": "@drew.jots", "avatar": "https://i.pravatar.cc/64?img=65", "postTitle": "Studio Rain Ambience", "comment": "Perfect for late night writing sessions.", "likes": 47, "timestamp": "2025-06-10T22:40:00Z", "priority": "low" }
+        ],
+        "topPerformingContent": [
+          { "id": "jun-op-1", "title": "Summer Reading List: 10 Books That Changed Me", "platform": "YouTube", "views": 221800, "engagementRate": 8.8 },
+          { "id": "jun-op-2", "title": "Reel: Travel Setup Under 10lbs", "platform": "Instagram", "views": 187500, "engagementRate": 10.0 },
+          { "id": "jun-tp-3", "title": "TikTok: Airport Day Timeline", "platform": "TikTok", "views": 124600, "engagementRate": 9.2 },
+          { "id": "jun-tp-4", "title": "Short: 3 Books in 60s", "platform": "YouTube", "views": 88400, "engagementRate": 7.8 },
+          { "id": "jun-tp-5", "title": "Carousel: What's in My Bag", "platform": "Instagram", "views": 71200, "engagementRate": 8.4 }
+        ]
+      }
+    },
+    {
+      "month": "July",
+      "year": 2025,
+      "monthIndex": 6,
+      "contentFeedOverview": {
+        "overPerforming": [
+          {
+            "id": "jul-op-1",
+            "title": "My Mid-Year Reset Routine",
+            "platform": "YouTube",
+            "publishedDate": "2025-07-02",
+            "thumbnail": "https://picsum.photos/seed/jul-op-1/400/225",
+            "views": 234500,
+            "likes": 17400,
+            "comments": 1290,
+            "shares": 2140,
+            "engagementRate": 8.9,
+            "vsAverage": 66
+          },
+          {
+            "id": "jul-op-2",
+            "title": "TikTok: The One Habit That Fixed My Sleep",
+            "platform": "TikTok",
+            "publishedDate": "2025-07-14",
+            "thumbnail": "https://picsum.photos/seed/jul-op-2/400/225",
+            "views": 412000,
+            "likes": 32400,
+            "comments": 1840,
+            "shares": 5620,
+            "engagementRate": 9.7,
+            "vsAverage": 118
+          }
+        ],
+        "underPerforming": [
+          {
+            "id": "jul-up-1",
+            "title": "Studio Update: New Chair",
+            "platform": "Instagram",
+            "publishedDate": "2025-07-08",
+            "thumbnail": "https://picsum.photos/seed/jul-up-1/400/225",
+            "views": 5200,
+            "likes": 210,
+            "comments": 24,
+            "shares": 7,
+            "engagementRate": 4.6,
+            "vsAverage": -48
+          },
+          {
+            "id": "jul-up-2",
+            "title": "Podcast Clip: Off Topic",
+            "platform": "YouTube",
+            "publishedDate": "2025-07-22",
+            "thumbnail": "https://picsum.photos/seed/jul-up-2/400/225",
+            "views": 4900,
+            "likes": 180,
+            "comments": 22,
+            "shares": 8,
+            "engagementRate": 4.3,
+            "vsAverage": -55
+          }
+        ]
+      },
+      "subscriptionManagement": {
+        "totalSubscribers": 175200,
+        "newSubscribers": 13400,
+        "lostSubscribers": 600,
+        "netChange": 12800,
+        "vsPreviousMonth": {
+          "totalSubscribersDelta": 12800,
+          "newSubscribersDelta": 3200,
+          "lostSubscribersDelta": 0,
+          "trend": "up"
+        }
+      },
+      "uploadQueue": [
+        { "id": "jul-q-1", "title": "Sleep Deep Dive Video", "platform": "YouTube", "scheduledDate": "2025-07-25", "status": "scheduled", "type": "video" },
+        { "id": "jul-q-2", "title": "Reel: Wind Down Routine", "platform": "Instagram", "scheduledDate": "2025-07-26", "status": "scheduled", "type": "reel" },
+        { "id": "jul-q-3", "title": "TikTok: 3 Bedtime Mistakes", "platform": "TikTok", "scheduledDate": "2025-07-27", "status": "draft", "type": "short" },
+        { "id": "jul-q-4", "title": "Thread: My Sleep Stack", "platform": "X", "scheduledDate": "2025-07-28", "status": "scheduled", "type": "thread" },
+        { "id": "jul-q-5", "title": "Newsletter: Mid-Year Review", "platform": "Substack", "scheduledDate": "2025-07-31", "status": "in-review", "type": "article" }
+      ],
+      "engagementSummary": {
+        "topComments": [
+          { "id": "jul-c-1", "author": "@lior.pixels", "avatar": "https://i.pravatar.cc/64?img=1", "postTitle": "TikTok: The One Habit That Fixed My Sleep", "comment": "Tried this for a week and I actually feel rested. Wild.", "likes": 512, "timestamp": "2025-07-15T08:20:00Z", "priority": "high" },
+          { "id": "jul-c-2", "author": "@mel.creates", "avatar": "https://i.pravatar.cc/64?img=2", "postTitle": "My Mid-Year Reset Routine", "comment": "Can you share the reset checklist as a template?", "likes": 341, "timestamp": "2025-07-03T14:11:00Z", "priority": "high" },
+          { "id": "jul-c-3", "author": "@remy.frames", "avatar": "https://i.pravatar.cc/64?img=3", "postTitle": "TikTok: The One Habit That Fixed My Sleep", "comment": "Does it still work if you have a newborn? Asking for me.", "likes": 264, "timestamp": "2025-07-16T22:04:00Z", "priority": "high" },
+          { "id": "jul-c-4", "author": "@sana.builds", "avatar": "https://i.pravatar.cc/64?img=4", "postTitle": "My Mid-Year Reset Routine", "comment": "Doing this Sunday. Will report back!", "likes": 96, "timestamp": "2025-07-04T19:50:00Z", "priority": "medium" },
+          { "id": "jul-c-5", "author": "@ivy.reads", "avatar": "https://i.pravatar.cc/64?img=5", "postTitle": "Studio Update: New Chair", "comment": "Chair model please, my back is begging.", "likes": 58, "timestamp": "2025-07-09T12:33:00Z", "priority": "medium" }
+        ],
+        "topPerformingContent": [
+          { "id": "jul-op-2", "title": "TikTok: The One Habit That Fixed My Sleep", "platform": "TikTok", "views": 412000, "engagementRate": 9.7 },
+          { "id": "jul-op-1", "title": "My Mid-Year Reset Routine", "platform": "YouTube", "views": 234500, "engagementRate": 8.9 },
+          { "id": "jul-tp-3", "title": "Reel: 5 Sleep Mistakes", "platform": "Instagram", "views": 142300, "engagementRate": 9.0 },
+          { "id": "jul-tp-4", "title": "Short: Mid-Year Reset in 60s", "platform": "YouTube", "views": 98600, "engagementRate": 7.9 },
+          { "id": "jul-tp-5", "title": "Carousel: Reset Checklist", "platform": "Instagram", "views": 82100, "engagementRate": 8.6 }
+        ]
+      }
+    },
+    {
+      "month": "August",
+      "year": 2025,
+      "monthIndex": 7,
+      "contentFeedOverview": {
+        "overPerforming": [
+          {
+            "id": "aug-op-1",
+            "title": "Back to School: My Study Setup 2025",
+            "platform": "YouTube",
+            "publishedDate": "2025-08-05",
+            "thumbnail": "https://picsum.photos/seed/aug-op-1/400/225",
+            "views": 298700,
+            "likes": 22100,
+            "comments": 1620,
+            "shares": 2810,
+            "engagementRate": 9.0,
+            "vsAverage": 74
+          },
+          {
+            "id": "aug-op-2",
+            "title": "Carousel: 10 Notion Templates I Actually Use",
+            "platform": "Instagram",
+            "publishedDate": "2025-08-18",
+            "thumbnail": "https://picsum.photos/seed/aug-op-2/400/225",
+            "views": 176400,
+            "likes": 15200,
+            "comments": 980,
+            "shares": 3540,
+            "engagementRate": 11.2,
+            "vsAverage": 68
+          }
+        ],
+        "underPerforming": [
+          {
+            "id": "aug-up-1",
+            "title": "Short: Random Coffee Thoughts",
+            "platform": "TikTok",
+            "publishedDate": "2025-08-12",
+            "thumbnail": "https://picsum.photos/seed/aug-up-1/400/225",
+            "views": 3900,
+            "likes": 140,
+            "comments": 12,
+            "shares": 5,
+            "engagementRate": 4.0,
+            "vsAverage": -63
+          },
+          {
+            "id": "aug-up-2",
+            "title": "Vlog: A Slow Weekend",
+            "platform": "YouTube",
+            "publishedDate": "2025-08-24",
+            "thumbnail": "https://picsum.photos/seed/aug-up-2/400/225",
+            "views": 6100,
+            "likes": 240,
+            "comments": 31,
+            "shares": 10,
+            "engagementRate": 4.6,
+            "vsAverage": -46
+          }
+        ]
+      },
+      "subscriptionManagement": {
+        "totalSubscribers": 189600,
+        "newSubscribers": 15000,
+        "lostSubscribers": 600,
+        "netChange": 14400,
+        "vsPreviousMonth": {
+          "totalSubscribersDelta": 14400,
+          "newSubscribersDelta": 1600,
+          "lostSubscribersDelta": 0,
+          "trend": "up"
+        }
+      },
+      "uploadQueue": [
+        { "id": "aug-q-1", "title": "Back to School Q&A", "platform": "YouTube", "scheduledDate": "2025-08-28", "status": "scheduled", "type": "video" },
+        { "id": "aug-q-2", "title": "Reel: Backpack Essentials", "platform": "Instagram", "scheduledDate": "2025-08-29", "status": "scheduled", "type": "reel" },
+        { "id": "aug-q-3", "title": "TikTok: Class Prep in 60s", "platform": "TikTok", "scheduledDate": "2025-08-30", "status": "draft", "type": "short" },
+        { "id": "aug-q-4", "title": "Thread: Study Stack 2025", "platform": "X", "scheduledDate": "2025-08-31", "status": "scheduled", "type": "thread" },
+        { "id": "aug-q-5", "title": "Newsletter: Fall Goals", "platform": "Substack", "scheduledDate": "2025-09-01", "status": "in-review", "type": "article" }
+      ],
+      "engagementSummary": {
+        "topComments": [
+          { "id": "aug-c-1", "author": "@quinn.study", "avatar": "https://i.pravatar.cc/64?img=6", "postTitle": "Back to School: My Study Setup 2025", "comment": "This is exactly the setup video I needed. Bookmarked.", "likes": 478, "timestamp": "2025-08-06T09:12:00Z", "priority": "high" },
+          { "id": "aug-c-2", "author": "@iris.builds", "avatar": "https://i.pravatar.cc/64?img=7", "postTitle": "Carousel: 10 Notion Templates", "comment": "Template #3 is genius. Sharing everywhere!", "likes": 362, "timestamp": "2025-08-19T13:40:00Z", "priority": "high" },
+          { "id": "aug-c-3", "author": "@toby.pixels", "avatar": "https://i.pravatar.cc/64?img=8", "postTitle": "Back to School: My Study Setup 2025", "comment": "Which lamp is that? Been searching all summer.", "likes": 244, "timestamp": "2025-08-07T18:22:00Z", "priority": "high" },
+          { "id": "aug-c-4", "author": "@ellis.frames", "avatar": "https://i.pravatar.cc/64?img=9", "postTitle": "Vlog: A Slow Weekend", "comment": "Loved the slower pace, more of these please.", "likes": 76, "timestamp": "2025-08-25T21:10:00Z", "priority": "medium" },
+          { "id": "aug-c-5", "author": "@june.reads", "avatar": "https://i.pravatar.cc/64?img=10", "postTitle": "Short: Random Coffee Thoughts", "comment": "Bean brand? Asking for a friend (me).", "likes": 41, "timestamp": "2025-08-13T11:00:00Z", "priority": "low" }
+        ],
+        "topPerformingContent": [
+          { "id": "aug-op-1", "title": "Back to School: My Study Setup 2025", "platform": "YouTube", "views": 298700, "engagementRate": 9.0 },
+          { "id": "aug-op-2", "title": "Carousel: 10 Notion Templates I Actually Use", "platform": "Instagram", "views": 176400, "engagementRate": 11.2 },
+          { "id": "aug-tp-3", "title": "TikTok: Desk Setup Reveal", "platform": "TikTok", "views": 154800, "engagementRate": 9.5 },
+          { "id": "aug-tp-4", "title": "Short: Backpack Tour", "platform": "YouTube", "views": 112400, "engagementRate": 8.1 },
+          { "id": "aug-tp-5", "title": "Reel: Note Taking Method", "platform": "Instagram", "views": 89600, "engagementRate": 8.9 }
+        ]
+      }
+    },
+    {
+      "month": "September",
+      "year": 2025,
+      "monthIndex": 8,
+      "contentFeedOverview": {
+        "overPerforming": [
+          {
+            "id": "sep-op-1",
+            "title": "Fall Productivity Reset: My Q4 Game Plan",
+            "platform": "YouTube",
+            "publishedDate": "2025-09-03",
+            "thumbnail": "https://picsum.photos/seed/sep-op-1/400/225",
+            "views": 256400,
+            "likes": 19200,
+            "comments": 1420,
+            "shares": 2280,
+            "engagementRate": 8.9,
+            "vsAverage": 63
+          },
+          {
+            "id": "sep-op-2",
+            "title": "Reel: 60s Cozy Desk Refresh",
+            "platform": "Instagram",
+            "publishedDate": "2025-09-16",
+            "thumbnail": "https://picsum.photos/seed/sep-op-2/400/225",
+            "views": 198300,
+            "likes": 16400,
+            "comments": 940,
+            "shares": 3480,
+            "engagementRate": 10.5,
+            "vsAverage": 71
+          }
+        ],
+        "underPerforming": [
+          {
+            "id": "sep-up-1",
+            "title": "Ambient: Rainy Afternoon Studio",
+            "platform": "TikTok",
+            "publishedDate": "2025-09-10",
+            "thumbnail": "https://picsum.photos/seed/sep-up-1/400/225",
+            "views": 3400,
+            "likes": 128,
+            "comments": 11,
+            "shares": 4,
+            "engagementRate": 4.2,
+            "vsAverage": -59
+          },
+          {
+            "id": "sep-up-2",
+            "title": "Podcast Clip: Off Camera Chats",
+            "platform": "YouTube",
+            "publishedDate": "2025-09-22",
+            "thumbnail": "https://picsum.photos/seed/sep-up-2/400/225",
+            "views": 5500,
+            "likes": 220,
+            "comments": 28,
+            "shares": 9,
+            "engagementRate": 4.7,
+            "vsAverage": -51
+          }
+        ]
+      },
+      "subscriptionManagement": {
+        "totalSubscribers": 203400,
+        "newSubscribers": 14500,
+        "lostSubscribers": 700,
+        "netChange": 13800,
+        "vsPreviousMonth": {
+          "totalSubscribersDelta": 13800,
+          "newSubscribersDelta": -500,
+          "lostSubscribersDelta": 100,
+          "trend": "up"
+        }
+      },
+      "uploadQueue": [
+        { "id": "sep-q-1", "title": "Q4 Planning Live Session", "platform": "YouTube", "scheduledDate": "2025-09-26", "status": "scheduled", "type": "video" },
+        { "id": "sep-q-2", "title": "Reel: Cozy Setup Details", "platform": "Instagram", "scheduledDate": "2025-09-27", "status": "scheduled", "type": "reel" },
+        { "id": "sep-q-3", "title": "TikTok: Q4 Goal Setting", "platform": "TikTok", "scheduledDate": "2025-09-28", "status": "draft", "type": "short" },
+        { "id": "sep-q-4", "title": "Thread: 90-day Focus Sprint", "platform": "X", "scheduledDate": "2025-09-29", "status": "scheduled", "type": "thread" },
+        { "id": "sep-q-5", "title": "Newsletter: October Preview", "platform": "Substack", "scheduledDate": "2025-09-30", "status": "in-review", "type": "article" }
+      ],
+      "engagementSummary": {
+        "topComments": [
+          { "id": "sep-c-1", "author": "@harper.builds", "avatar": "https://i.pravatar.cc/64?img=16", "postTitle": "Fall Productivity Reset", "comment": "The 90-day sprint framework is exactly what I needed.", "likes": 421, "timestamp": "2025-09-04T10:00:00Z", "priority": "high" },
+          { "id": "sep-c-2", "author": "@rin.pixels", "avatar": "https://i.pravatar.cc/64?img=17", "postTitle": "Reel: 60s Cozy Desk Refresh", "comment": "Where's the candle from? Vibes are immaculate.", "likes": 302, "timestamp": "2025-09-17T14:22:00Z", "priority": "high" },
+          { "id": "sep-c-3", "author": "@yuki.creates", "avatar": "https://i.pravatar.cc/64?img=18", "postTitle": "Fall Productivity Reset", "comment": "Doing a workshop version of this at work, thanks!", "likes": 198, "timestamp": "2025-09-05T20:14:00Z", "priority": "medium" },
+          { "id": "sep-c-4", "author": "@marlo.frames", "avatar": "https://i.pravatar.cc/64?img=19", "postTitle": "Podcast Clip: Off Camera Chats", "comment": "Loved the tangent on habit stacking!", "likes": 88, "timestamp": "2025-09-23T17:40:00Z", "priority": "medium" },
+          { "id": "sep-c-5", "author": "@theo.reads", "avatar": "https://i.pravatar.cc/64?img=20", "postTitle": "Ambient: Rainy Afternoon Studio", "comment": "Best background for essay writing.", "likes": 45, "timestamp": "2025-09-11T22:05:00Z", "priority": "low" }
+        ],
+        "topPerformingContent": [
+          { "id": "sep-op-1", "title": "Fall Productivity Reset: My Q4 Game Plan", "platform": "YouTube", "views": 256400, "engagementRate": 8.9 },
+          { "id": "sep-op-2", "title": "Reel: 60s Cozy Desk Refresh", "platform": "Instagram", "views": 198300, "engagementRate": 10.5 },
+          { "id": "sep-tp-3", "title": "TikTok: 3 Q4 Rules I Live By", "platform": "TikTok", "views": 138900, "engagementRate": 9.1 },
+          { "id": "sep-tp-4", "title": "Short: Fall Desk Reveal", "platform": "YouTube", "views": 102600, "engagementRate": 7.8 },
+          { "id": "sep-tp-5", "title": "Carousel: Q4 Focus Areas", "platform": "Instagram", "views": 86400, "engagementRate": 8.7 }
+        ]
+      }
+    },
+    {
+      "month": "October",
+      "year": 2025,
+      "monthIndex": 9,
+      "contentFeedOverview": {
+        "overPerforming": [
+          {
+            "id": "oct-op-1",
+            "title": "My Honest Take on Working Alone",
+            "platform": "YouTube",
+            "publishedDate": "2025-10-07",
+            "thumbnail": "https://picsum.photos/seed/oct-op-1/400/225",
+            "views": 312400,
+            "likes": 23800,
+            "comments": 1780,
+            "shares": 2620,
+            "engagementRate": 9.0,
+            "vsAverage": 76
+          },
+          {
+            "id": "oct-op-2",
+            "title": "TikTok: Halloween Studio Transformation",
+            "platform": "TikTok",
+            "publishedDate": "2025-10-20",
+            "thumbnail": "https://picsum.photos/seed/oct-op-2/400/225",
+            "views": 388600,
+            "likes": 30200,
+            "comments": 1640,
+            "shares": 4980,
+            "engagementRate": 9.5,
+            "vsAverage": 92
+          }
+        ],
+        "underPerforming": [
+          {
+            "id": "oct-up-1",
+            "title": "Voice Note: Sunday Ramble",
+            "platform": "Substack",
+            "publishedDate": "2025-10-12",
+            "thumbnail": "https://picsum.photos/seed/oct-up-1/400/225",
+            "views": 2600,
+            "likes": 96,
+            "comments": 11,
+            "shares": 4,
+            "engagementRate": 4.3,
+            "vsAverage": -57
+          },
+          {
+            "id": "oct-up-2",
+            "title": "Vlog: A Quiet Week",
+            "platform": "YouTube",
+            "publishedDate": "2025-10-25",
+            "thumbnail": "https://picsum.photos/seed/oct-up-2/400/225",
+            "views": 5800,
+            "likes": 220,
+            "comments": 26,
+            "shares": 9,
+            "engagementRate": 4.4,
+            "vsAverage": -53
+          }
+        ]
+      },
+      "subscriptionManagement": {
+        "totalSubscribers": 218900,
+        "newSubscribers": 16200,
+        "lostSubscribers": 700,
+        "netChange": 15500,
+        "vsPreviousMonth": {
+          "totalSubscribersDelta": 15500,
+          "newSubscribersDelta": 1700,
+          "lostSubscribersDelta": 0,
+          "trend": "up"
+        }
+      },
+      "uploadQueue": [
+        { "id": "oct-q-1", "title": "Halloween Special Vlog", "platform": "YouTube", "scheduledDate": "2025-10-29", "status": "scheduled", "type": "video" },
+        { "id": "oct-q-2", "title": "Reel: Costume Setup", "platform": "Instagram", "scheduledDate": "2025-10-30", "status": "scheduled", "type": "reel" },
+        { "id": "oct-q-3", "title": "TikTok: Spooky Room Reveal", "platform": "TikTok", "scheduledDate": "2025-10-31", "status": "draft", "type": "short" },
+        { "id": "oct-q-4", "title": "Thread: Solo Work Lessons", "platform": "X", "scheduledDate": "2025-11-01", "status": "scheduled", "type": "thread" },
+        { "id": "oct-q-5", "title": "Newsletter: November Focus", "platform": "Substack", "scheduledDate": "2025-11-02", "status": "in-review", "type": "article" }
+      ],
+      "engagementSummary": {
+        "topComments": [
+          { "id": "oct-c-1", "author": "@sable.jots", "avatar": "https://i.pravatar.cc/64?img=26", "postTitle": "My Honest Take on Working Alone", "comment": "This felt like therapy. Thank you for saying it.", "likes": 548, "timestamp": "2025-10-08T09:33:00Z", "priority": "high" },
+          { "id": "oct-c-2", "author": "@rory.frames", "avatar": "https://i.pravatar.cc/64?img=27", "postTitle": "TikTok: Halloween Studio Transformation", "comment": "The pumpkin monitor is unreal. Tutorial please!", "likes": 396, "timestamp": "2025-10-21T12:12:00Z", "priority": "high" },
+          { "id": "oct-c-3", "author": "@vega.creates", "avatar": "https://i.pravatar.cc/64?img=28", "postTitle": "My Honest Take on Working Alone", "comment": "How do you deal with the quiet days?", "likes": 217, "timestamp": "2025-10-09T18:55:00Z", "priority": "high" },
+          { "id": "oct-c-4", "author": "@indi.pixels", "avatar": "https://i.pravatar.cc/64?img=29", "postTitle": "Vlog: A Quiet Week", "comment": "The soft edits here are lovely.", "likes": 84, "timestamp": "2025-10-26T20:22:00Z", "priority": "medium" },
+          { "id": "oct-c-5", "author": "@bex.reads", "avatar": "https://i.pravatar.cc/64?img=30", "postTitle": "Voice Note: Sunday Ramble", "comment": "More voice notes! They feel so personal.", "likes": 46, "timestamp": "2025-10-13T21:11:00Z", "priority": "low" }
+        ],
+        "topPerformingContent": [
+          { "id": "oct-op-2", "title": "TikTok: Halloween Studio Transformation", "platform": "TikTok", "views": 388600, "engagementRate": 9.5 },
+          { "id": "oct-op-1", "title": "My Honest Take on Working Alone", "platform": "YouTube", "views": 312400, "engagementRate": 9.0 },
+          { "id": "oct-tp-3", "title": "Reel: Cozy Fall Morning", "platform": "Instagram", "views": 164200, "engagementRate": 9.6 },
+          { "id": "oct-tp-4", "title": "Short: Costume Reveal", "platform": "YouTube", "views": 118400, "engagementRate": 8.2 },
+          { "id": "oct-tp-5", "title": "Carousel: October Reads", "platform": "Instagram", "views": 92800, "engagementRate": 8.4 }
+        ]
+      }
+    },
+    {
+      "month": "November",
+      "year": 2025,
+      "monthIndex": 10,
+      "contentFeedOverview": {
+        "overPerforming": [
+          {
+            "id": "nov-op-1",
+            "title": "Black Friday: What I'm Actually Buying",
+            "platform": "YouTube",
+            "publishedDate": "2025-11-24",
+            "thumbnail": "https://picsum.photos/seed/nov-op-1/400/225",
+            "views": 342800,
+            "likes": 25800,
+            "comments": 1920,
+            "shares": 3140,
+            "engagementRate": 9.1,
+            "vsAverage": 81
+          },
+          {
+            "id": "nov-op-2",
+            "title": "Carousel: 12 Gift Ideas Under $50",
+            "platform": "Instagram",
+            "publishedDate": "2025-11-14",
+            "thumbnail": "https://picsum.photos/seed/nov-op-2/400/225",
+            "views": 218400,
+            "likes": 18400,
+            "comments": 1240,
+            "shares": 4620,
+            "engagementRate": 11.1,
+            "vsAverage": 74
+          }
+        ],
+        "underPerforming": [
+          {
+            "id": "nov-up-1",
+            "title": "Short: Random Rain Loop",
+            "platform": "TikTok",
+            "publishedDate": "2025-11-08",
+            "thumbnail": "https://picsum.photos/seed/nov-up-1/400/225",
+            "views": 3600,
+            "likes": 130,
+            "comments": 10,
+            "shares": 5,
+            "engagementRate": 4.0,
+            "vsAverage": -66
+          },
+          {
+            "id": "nov-up-2",
+            "title": "Q&A: Off Season Edition",
+            "platform": "Instagram",
+            "publishedDate": "2025-11-19",
+            "thumbnail": "https://picsum.photos/seed/nov-up-2/400/225",
+            "views": 6600,
+            "likes": 260,
+            "comments": 30,
+            "shares": 12,
+            "engagementRate": 4.6,
+            "vsAverage": -45
+          }
+        ]
+      },
+      "subscriptionManagement": {
+        "totalSubscribers": 236200,
+        "newSubscribers": 17900,
+        "lostSubscribers": 600,
+        "netChange": 17300,
+        "vsPreviousMonth": {
+          "totalSubscribersDelta": 17300,
+          "newSubscribersDelta": 1700,
+          "lostSubscribersDelta": -100,
+          "trend": "up"
+        }
+      },
+      "uploadQueue": [
+        { "id": "nov-q-1", "title": "Cyber Monday Followup", "platform": "YouTube", "scheduledDate": "2025-12-01", "status": "scheduled", "type": "video" },
+        { "id": "nov-q-2", "title": "Reel: My Actual Cart", "platform": "Instagram", "scheduledDate": "2025-11-29", "status": "scheduled", "type": "reel" },
+        { "id": "nov-q-3", "title": "TikTok: Deals I Skipped", "platform": "TikTok", "scheduledDate": "2025-11-28", "status": "draft", "type": "short" },
+        { "id": "nov-q-4", "title": "Thread: BF Buying Framework", "platform": "X", "scheduledDate": "2025-11-27", "status": "scheduled", "type": "thread" },
+        { "id": "nov-q-5", "title": "Newsletter: December Recap Preview", "platform": "Substack", "scheduledDate": "2025-11-30", "status": "in-review", "type": "article" }
+      ],
+      "engagementSummary": {
+        "topComments": [
+          { "id": "nov-c-1", "author": "@nell.builds", "avatar": "https://i.pravatar.cc/64?img=36", "postTitle": "Black Friday: What I'm Actually Buying", "comment": "This is the most honest BF video on YouTube.", "likes": 612, "timestamp": "2025-11-25T09:10:00Z", "priority": "high" },
+          { "id": "nov-c-2", "author": "@fen.frames", "avatar": "https://i.pravatar.cc/64?img=37", "postTitle": "Carousel: 12 Gift Ideas Under $50", "comment": "#4 is genius. Just ordered 3 for my siblings!", "likes": 428, "timestamp": "2025-11-15T13:44:00Z", "priority": "high" },
+          { "id": "nov-c-3", "author": "@omi.pixels", "avatar": "https://i.pravatar.cc/64?img=38", "postTitle": "Black Friday: What I'm Actually Buying", "comment": "Any recs for headphones under $200?", "likes": 246, "timestamp": "2025-11-26T18:00:00Z", "priority": "high" },
+          { "id": "nov-c-4", "author": "@aeri.creates", "avatar": "https://i.pravatar.cc/64?img=39", "postTitle": "Q&A: Off Season Edition", "comment": "Would love more Q&As before the year ends!", "likes": 92, "timestamp": "2025-11-20T20:32:00Z", "priority": "medium" },
+          { "id": "nov-c-5", "author": "@juno.reads", "avatar": "https://i.pravatar.cc/64?img=40", "postTitle": "Short: Random Rain Loop", "comment": "Perfect for cozy reading time.", "likes": 48, "timestamp": "2025-11-09T21:22:00Z", "priority": "low" }
+        ],
+        "topPerformingContent": [
+          { "id": "nov-op-1", "title": "Black Friday: What I'm Actually Buying", "platform": "YouTube", "views": 342800, "engagementRate": 9.1 },
+          { "id": "nov-op-2", "title": "Carousel: 12 Gift Ideas Under $50", "platform": "Instagram", "views": 218400, "engagementRate": 11.1 },
+          { "id": "nov-tp-3", "title": "TikTok: Deals Worth It", "platform": "TikTok", "views": 176400, "engagementRate": 9.3 },
+          { "id": "nov-tp-4", "title": "Short: My BF Framework", "platform": "YouTube", "views": 124600, "engagementRate": 8.0 },
+          { "id": "nov-tp-5", "title": "Reel: Cozy Gift Wrap", "platform": "Instagram", "views": 98400, "engagementRate": 9.2 }
+        ]
+      }
+    },
+    {
+      "month": "December",
+      "year": 2025,
+      "monthIndex": 11,
+      "contentFeedOverview": {
+        "overPerforming": [
+          {
+            "id": "dec-op-1",
+            "title": "2025 Year in Review: The Good, The Weird, The Wins",
+            "platform": "YouTube",
+            "publishedDate": "2025-12-15",
+            "thumbnail": "https://picsum.photos/seed/dec-op-1/400/225",
+            "views": 428600,
+            "likes": 32400,
+            "comments": 2380,
+            "shares": 3620,
+            "engagementRate": 9.0,
+            "vsAverage": 96
+          },
+          {
+            "id": "dec-op-2",
+            "title": "Reel: My Cozy December Setup",
+            "platform": "Instagram",
+            "publishedDate": "2025-12-04",
+            "thumbnail": "https://picsum.photos/seed/dec-op-2/400/225",
+            "views": 246800,
+            "likes": 21200,
+            "comments": 1340,
+            "shares": 4980,
+            "engagementRate": 11.2,
+            "vsAverage": 78
+          }
+        ],
+        "underPerforming": [
+          {
+            "id": "dec-up-1",
+            "title": "Short: Snowy Window Loop",
+            "platform": "TikTok",
+            "publishedDate": "2025-12-10",
+            "thumbnail": "https://picsum.photos/seed/dec-up-1/400/225",
+            "views": 4200,
+            "likes": 150,
+            "comments": 12,
+            "shares": 6,
+            "engagementRate": 4.0,
+            "vsAverage": -64
+          },
+          {
+            "id": "dec-up-2",
+            "title": "Vlog: Between the Holidays",
+            "platform": "YouTube",
+            "publishedDate": "2025-12-28",
+            "thumbnail": "https://picsum.photos/seed/dec-up-2/400/225",
+            "views": 6900,
+            "likes": 260,
+            "comments": 32,
+            "shares": 11,
+            "engagementRate": 4.4,
+            "vsAverage": -48
+          }
+        ]
+      },
+      "subscriptionManagement": {
+        "totalSubscribers": 258900,
+        "newSubscribers": 23400,
+        "lostSubscribers": 700,
+        "netChange": 22700,
+        "vsPreviousMonth": {
+          "totalSubscribersDelta": 22700,
+          "newSubscribersDelta": 5500,
+          "lostSubscribersDelta": 100,
+          "trend": "up"
+        }
+      },
+      "uploadQueue": [
+        { "id": "dec-q-1", "title": "Year in Review Behind the Scenes", "platform": "YouTube", "scheduledDate": "2025-12-29", "status": "scheduled", "type": "video" },
+        { "id": "dec-q-2", "title": "Reel: 2026 Setup Preview", "platform": "Instagram", "scheduledDate": "2025-12-30", "status": "scheduled", "type": "reel" },
+        { "id": "dec-q-3", "title": "TikTok: 3 Wins from 2025", "platform": "TikTok", "scheduledDate": "2025-12-31", "status": "draft", "type": "short" },
+        { "id": "dec-q-4", "title": "Thread: 10 Lessons from the Year", "platform": "X", "scheduledDate": "2026-01-01", "status": "scheduled", "type": "thread" },
+        { "id": "dec-q-5", "title": "Newsletter: 2026 Kickoff", "platform": "Substack", "scheduledDate": "2026-01-02", "status": "in-review", "type": "article" }
+      ],
+      "engagementSummary": {
+        "topComments": [
+          { "id": "dec-c-1", "author": "@wilder.jots", "avatar": "https://i.pravatar.cc/64?img=46", "postTitle": "2025 Year in Review", "comment": "This made me tear up. Thank you for a real recap.", "likes": 724, "timestamp": "2025-12-16T09:44:00Z", "priority": "high" },
+          { "id": "dec-c-2", "author": "@brook.pixels", "avatar": "https://i.pravatar.cc/64?img=47", "postTitle": "Reel: My Cozy December Setup", "comment": "Blanket brand + candle please, need this vibe!", "likes": 512, "timestamp": "2025-12-05T14:12:00Z", "priority": "high" },
+          { "id": "dec-c-3", "author": "@ash.creates", "avatar": "https://i.pravatar.cc/64?img=48", "postTitle": "2025 Year in Review", "comment": "Any predictions for 2026 content trends?", "likes": 268, "timestamp": "2025-12-17T20:04:00Z", "priority": "high" },
+          { "id": "dec-c-4", "author": "@remy.frames", "avatar": "https://i.pravatar.cc/64?img=49", "postTitle": "Vlog: Between the Holidays", "comment": "Loved the slow-paced vibe here.", "likes": 96, "timestamp": "2025-12-29T18:00:00Z", "priority": "medium" },
+          { "id": "dec-c-5", "author": "@sol.reads", "avatar": "https://i.pravatar.cc/64?img=50", "postTitle": "Short: Snowy Window Loop", "comment": "Playing this on a loop while I journal.", "likes": 52, "timestamp": "2025-12-11T22:30:00Z", "priority": "low" }
+        ],
+        "topPerformingContent": [
+          { "id": "dec-op-1", "title": "2025 Year in Review: The Good, The Weird, The Wins", "platform": "YouTube", "views": 428600, "engagementRate": 9.0 },
+          { "id": "dec-op-2", "title": "Reel: My Cozy December Setup", "platform": "Instagram", "views": 246800, "engagementRate": 11.2 },
+          { "id": "dec-tp-3", "title": "TikTok: Best of 2025 Mashup", "platform": "TikTok", "views": 214600, "engagementRate": 9.7 },
+          { "id": "dec-tp-4", "title": "Short: 2026 Setup Sneak Peek", "platform": "YouTube", "views": 158400, "engagementRate": 8.4 },
+          { "id": "dec-tp-5", "title": "Carousel: 10 Lessons from 2025", "platform": "Instagram", "views": 124200, "engagementRate": 9.6 }
+        ]
+      }
+    }
+  ]
+}
