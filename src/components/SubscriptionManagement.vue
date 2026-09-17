@@ -8,7 +8,7 @@
     </div>
 
     <v-row dense>
-      <v-col cols="12" sm="6">
+      <v-col cols="6" sm="6">
         <MetricCard
           label="Total Subscribers"
           icon="mdi-account-group"
@@ -17,7 +17,7 @@
           delta-label="vs last month"
         />
       </v-col>
-      <v-col cols="12" sm="6">
+      <v-col cols="6" sm="6">
         <MetricCard
           label="New This Month"
           icon="mdi-account-plus"
