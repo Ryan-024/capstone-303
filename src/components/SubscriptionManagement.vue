@@ -8,7 +8,7 @@
     </div>
 
     <v-row dense>
-      <v-col cols="12" sm="4">
+      <v-col cols="12" sm="6">
         <MetricCard
           label="Total Subscribers"
           icon="mdi-account-group"
@@ -17,23 +17,13 @@
           delta-label="vs last month"
         />
       </v-col>
-      <v-col cols="6" sm="4">
+      <v-col cols="12" sm="6">
         <MetricCard
           label="New This Month"
           icon="mdi-account-plus"
           :value="formatCompact(data.newSubscribers)"
           :delta="data.vsPreviousMonth.newSubscribersDelta"
           delta-label="vs last month"
-        />
-      </v-col>
-      <v-col cols="6" sm="4">
-        <MetricCard
-          label="Lost"
-          icon="mdi-account-minus"
-          :value="formatCompact(data.lostSubscribers)"
-          :delta="data.vsPreviousMonth.lostSubscribersDelta"
-          delta-label="vs last month"
-          inverse
         />
       </v-col>
     </v-row>
